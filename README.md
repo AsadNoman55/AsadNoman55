@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CS Graduate from **University of Sargodha (2024)**
+- 🎓 CS Graduate from **University of Sargodha (2025)**
 - 🔭 Currently building: **HireHaven** – A Job Portal Website (Mini LinkedIn Clone)
 - ✅ Completed: 
   - CMS Project (Admin Dashboard + Blog)
